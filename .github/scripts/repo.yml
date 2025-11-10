@@ -1,6 +1,6 @@
-TITLE_1: SSC0748
-TITLE_2: Redes Móveis
-SUBTITLE_1: Disciplina de graduação
+TITLE_1: MCKZ
+TITLE_2: Métodos Quantitativos
+SUBTITLE_1: Disciplina de especialização
 SUBTITLE_2: Material de aula, notebooks e referências.
 
 ABOUT: |
@@ -12,5 +12,5 @@ REFERENCIAS: |
     <li>Artigo B …</li>
   </ul>
 
-GITHUB_LINK: https://github.com/Academic-Codex/SSC0748-Redes-Moveis
-HERO_FILE: redes-moveis.png
+GITHUB_LINK: https://github.com/Academic-Codex/MCKZ-Metodos-Quantitativos
+HERO_FILE: metodos-quantitativos.png
