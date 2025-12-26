@@ -1,0 +1,12 @@
+REPO_TAGLINE: Quantitative methods • modeling • data analysis
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: notes
+SITE_URL: https://academic-codex.github.io/MCKZ-Metodos-Quantitativos
+
+BG_1: "#083344"
+BG_2: "#0E7490"
+TEXT_MAIN: "#ECFEFF"
+TEXT_MUTED: "#A5F3FC"
+ACCENT: "#22D3EE"
+CARD_RADIUS: "18"
